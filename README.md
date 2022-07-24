@@ -1,4 +1,5 @@
 <h1 align="center">Hi </h1>
+[![IMAGE PROFILE](https://scontent.fbkk29-4.fna.fbcdn.net/v/t1.6435-9/88321390_2595637930667746_9086553070501888000_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeExRy8AG6PncC11n7nTk-DzPzlW8FzWJM0_OVbwXNYkzf6RePqNpIO8XjioZjIHRnX0qBXxE6hkuEDzMHy7n1Bv&_nc_ohc=vWpvSoxls84AX-s-TLu&_nc_ht=scontent.fbkk29-4.fna&oh=00_AT8FW30FslB6UjY15Pg69N-Y5w3a0KONLK7MzzOi0lpwVg&oe=6301AFDF)]
 <h3 align="center">เป็นนักเรียนจาก code camp#11 ต้องการที่จะเป็น frontend web deverloper</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJs ,javaScript**
