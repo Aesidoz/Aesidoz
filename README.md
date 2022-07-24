@@ -1,6 +1,6 @@
-<h1 align="center">Hi </h1>
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-<h3 align="center">เป็นนักเรียนจาก code camp#11 ต้องการที่จะเป็น frontend web deverloper</h3>
+<h1 align="center">Hi:blush: I'm Gun Chichom </h1>
+
+<h3 align="center">I'm a student from Code Camp#11. I wanna be a frontend web deverloper</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJs ,javaScript**
 
