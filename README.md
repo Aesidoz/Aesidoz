@@ -1,4 +1,5 @@
 <h1 align="center">Hi:blush: I'm Gun Chichom </h1>
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 <h3 align="center">I'm a student from Code Camp#11. I wanna be a frontend web deverloper</h3>
 
