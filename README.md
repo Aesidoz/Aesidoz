@@ -1,11 +1,11 @@
-<h1 align="center">สวัสดี ผม กัณย์ ชิดโฉม</h1>
+<h1 align="center">Hi </h1>
 <h3 align="center">เป็นนักเรียนจาก code camp#11 ต้องการที่จะเป็น frontend web deverloper</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJs ,javaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/gun chidchom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gun chidchom" height="30" width="40" /></a>
+<a href="https://fb.com/gunz.chidchom.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gun chidchom" height="30" width="40" /></a>
 <a href="https://instagram.com/phgunz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phgunz" height="30" width="40" /></a>
 <a href="https://discord.gg/#0629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0629" height="30" width="40" /></a>
 </p>
