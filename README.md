@@ -1,5 +1,5 @@
 <h1 align="center">Hi:blush: I'm Gun Chichom </h1>
-![img](pro_pic.jpg)
+![img](../../Desktop/88321390_2595637930667746_9086553070501888000_n.jpg)
 
 <h3 align="center">I'm a student from Code Camp#11. I wanna be a frontend web deverloper</h3>
 
